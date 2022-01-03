@@ -25,12 +25,12 @@ Adobe Photoshop
 
 ### Пример кода
 
-function checkParent (src, dest) {
+'''function checkParent (src, dest) {
 while (src != null) {
 if (src.tagName == dest) return src
 src = src.parentElement
 }
-return null
+return null'''
 
 ---
 
