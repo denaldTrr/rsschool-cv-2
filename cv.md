@@ -12,7 +12,7 @@
     <img src="123.jpg"width="150" height="200" align="middle"border: 10px orange>
 <br>
      <h4>
-        <title>HTML line</title>
+        
         <hr align="left" width="40%" size="   3" color="#313131" />
      </h4>
 <br>
@@ -22,7 +22,7 @@
 <br>
     
    <h3>
-        <title>HTML line</title>
+
         <hr align="left" width="40%" size="   3" color="#313131" />
      </h3>
 <br>
@@ -33,7 +33,7 @@
 <br>
      <h3>
          
-        <title>HTML line</title>
+
         <hr align="left" width="40%" size="   3" color="#313131" />
      </h3>
 
@@ -48,7 +48,7 @@
 <br>
      <h4>
             
-        <title>HTML line</title>
+        
         <hr align="left" width="40%" size="3" color="#313131" />
      </h4>
     
@@ -68,14 +68,14 @@
 <br>
     
     <h3>
-        <title>HTML line</title>
+        
         <hr align="left" width="40%" size="   3" color="#313131" />
     </h3>
     <h2>Опыт работы</h2>
         <p>Опыт работы Junior Dev</p>
 <br>
     <h3>
-        <title>HTML line</title>
+        
         <hr align="left" width="40%" size="   3" color="#313131" />
     </h3>
     <h2>Образование</h2>
@@ -83,7 +83,7 @@
 
 <br>
     <h3>
-        <title>HTML line</title>
+    
         <hr align="left" width="40%" size="   3" color="#313131" />
     </h3>
     <h2>Языки</h2>
