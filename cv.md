@@ -1,5 +1,5 @@
 # CV
-## Компанець Денис
+## Компанец Денис
 ### Информация и контакты:
 * **Email:** **komanecd5@gmail.com**
 * **Github:** denald_trrr
